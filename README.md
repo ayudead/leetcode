@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayudead/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ayudead/leetcode/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/ayudead/leetcode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -56,5 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
