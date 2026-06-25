@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -179,9 +180,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayudead/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ayudead/leetcode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayudead/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
