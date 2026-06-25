@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/ayudead/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayudead/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
