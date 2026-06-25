@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayudead/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ayudead/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayudead/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/ayudead/leetcode/tree/master/0724-find-pivot-index) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayudead/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ayudead/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayudead/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
