@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayudead/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/ayudead/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/ayudead/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayudead/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ayudead/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/ayudead/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
