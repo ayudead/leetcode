@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayudead/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ayudead/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/ayudead/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayudead/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayudead/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/ayudead/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
