@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ayudead/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayudead/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/ayudead/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayudead/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/ayudead/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayudead/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/ayudead/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/ayudead/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
