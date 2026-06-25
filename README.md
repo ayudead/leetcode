@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayudead/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/ayudead/leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/ayudead/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/ayudead/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayudead/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayudead/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ayudead/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ayudead/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ayudead/leetcode/tree/master/0611-valid-triangle-number) |
 ## Greedy
