@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    vector<int> temp;
-    set<int>st;
-    void permutation(vector<int> arr){
+    void permutation(int 
+    
+    idx ,vector<int> arr){
         int n = arr.size();
-        if(temp.size() == n) {
-            ans.push_back(temp);
+        if(idx == n) {
+            ans.push_back(arr);
             return;
         } 
-        for(int i =0; i<n; i++){
-            if(st.find(arr[i]) == st.end()){
-                temp.push_back(arr[i]);
-                st.insert(arr[i]);
-                permutation(arr);
-                temp.pop_back();
-                st.erase(arr[i]);
-            }
+        for(int i = idx ; i<n; i++){
+            swap (arr[i] , arr[idx]);
+            permutation(idx+1,arr);
+            swap(arr[i] , arr[idx]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        permutation(nums);
+        permutation(0, nums);
         return ans;
     }
 };
