@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayudead/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ayudead/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ayudead/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ayudead/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ayudead/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ayudead/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayudead/leetcode/tree/master/0057-insert-interval) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayudead/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ayudead/leetcode/tree/master/0051-n-queens) |
 ## Recursion
 |  |
 | ------- |
