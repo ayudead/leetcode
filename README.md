@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayudead/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayudead/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayudead/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayudead/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayudead/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ayudead/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayudead/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayudead/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayudead/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayudead/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -219,8 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayudead/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ayudead/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayudead/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayudead/leetcode/tree/master/0050-powx-n) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
