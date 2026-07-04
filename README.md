@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayudead/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ayudead/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ayudead/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ayudead/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ayudead/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ayudead/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/ayudead/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayudead/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ayudead/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayudead/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
