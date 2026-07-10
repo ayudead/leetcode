@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ayudead/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/ayudead/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/ayudead/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayudead/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/ayudead/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
