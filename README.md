@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayudead/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayudead/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayudead/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ayudead/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayudead/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayudead/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayudead/leetcode/tree/master/0027-remove-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayudead/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ayudead/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayudead/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ayudead/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ayudead/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayudead/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ayudead/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayudead/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayudead/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayudead/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
