@@ -13,19 +13,20 @@ class Solution {
 public:
     int maxSum;
     int solve(TreeNode* root){
+        
         if(root == NULL) return 0;
         int ls = solve(root->left);
         int rs = solve(root->right);
-        int path = ls+rs+ root->val;
-        int single = max(ls,rs) + root->val;
-        int nopath = root->val;
-        maxSum = max({path, single, nopath , maxSum});
-        return max(single,nopath);
+        int mil_gaya = ls+rs+root->val;
+        int ek_mila = max(ls, rs) + root->val;
+        int nhi_mila = root->val;
+        
+        maxSum = max({maxSum , mil_gaya, ek_mila, nhi_mila});
+        return max(ek_mila, nhi_mila);
     }
     int maxPathSum(TreeNode* root) {
-        maxSum = INT_MIN;
-        solve(root);
-        return maxSum;
-
+       maxSum =INT_MIN;
+       solve(root);
+       return maxSum;
     }
 };
