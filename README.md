@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayudead/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/ayudead/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayudead/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ayudead/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ayudead/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
@@ -372,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayudead/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ayudead/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
