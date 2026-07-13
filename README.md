@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayudead/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ayudead/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/ayudead/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/ayudead/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayudead/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayudead/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayudead/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayudead/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayudead/leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
