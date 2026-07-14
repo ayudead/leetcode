@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayudead/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayudead/leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayudead/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayudead/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ayudead/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayudead/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayudead/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayudead/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayudead/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayudead/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ayudead/leetcode/tree/master/0274-h-index) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayudead/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayudead/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ayudead/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayudead/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayudead/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayudead/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayudead/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ayudead/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayudead/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayudead/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayudead/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
